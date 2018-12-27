@@ -1,0 +1,54 @@
+test_add (test_mathfunc.TestMathFunc)
+Test method add(a, b) ... FAIL
+test_minus (test_mathfunc.TestMathFunc)
+Test method minus(a, b) ... ok
+
+======================================================================
+FAIL: test_add (test_mathfunc.TestMathFunc)
+Test method add(a, b)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\lz\PycharmProjects\qasql\venv\unittest 1\test_mathfunc.py", line 21, in test_add
+    self.assertEqual(4, add(1, 2))
+AssertionError: 4 != 3
+
+----------------------------------------------------------------------
+Ran 2 tests in 0.001s
+
+FAILED (failures=1)
+test_add (test_mathfunc.TestMathFunc)
+Test method add(a, b) ... FAIL
+test_minus (test_mathfunc.TestMathFunc)
+Test method minus(a, b) ... ok
+
+======================================================================
+FAIL: test_add (test_mathfunc.TestMathFunc)
+Test method add(a, b)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\lz\PycharmProjects\qasql\venv\unittest 1\test_mathfunc.py", line 21, in test_add
+    self.assertEqual(4, add(1, 2))
+AssertionError: 4 != 3
+
+----------------------------------------------------------------------
+Ran 2 tests in 0.000s
+
+FAILED (failures=1)
+test_add (test_mathfunc.TestMathFunc)
+Test method add(a, b) ... FAIL
+test_minus (test_mathfunc.TestMathFunc)
+Test method minus(a, b) ... ok
+
+======================================================================
+FAIL: test_add (test_mathfunc.TestMathFunc)
+Test method add(a, b)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\lz\PycharmProjects\qasql\venv\unittest 1\test_mathfunc.py", line 21, in test_add
+    self.assertEqual(4, add(1, 2))
+AssertionError: 4 != 3
+
+----------------------------------------------------------------------
+Ran 2 tests in 0.001s
+
+FAILED (failures=1)
